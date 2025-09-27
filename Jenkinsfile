@@ -6,7 +6,7 @@ timeout(time: 4, unit: 'HOURS')
 
 environment {
 APPSYSID = '1a162be49758b2941ea4f1e0f53afd6'
-APPSCOPE = '1280bf2c971cb2941ea4f1e0f53aff1'
+APPSCOPE = 'x_hclte_r_d_p_g'
 CREDENTIALS = 'servicenow'
 DEVEN = 'https://hclnowintelligence.service-now.com';
 PRODEVN = 'https://vena3869.service-now.com';
