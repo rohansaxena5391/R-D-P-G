@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_page">
+    <sys_ui_page action="DELETE">
+        <category>general</category>
+        <client_script/>
+        <description/>
+        <direct>false</direct>
+        <endpoint>x_hclte_r_d_p_g_Test UI page.do</endpoint>
+        <html><![CDATA[<?xml version="1.0" encoding="utf-8" ?>
+<j:jelly trim="false" xmlns:j="jelly:core" xmlns:g="glide" xmlns:j2="null" xmlns:g2="null">
+
+</j:jelly>]]></html>
+        <name>Test UI page</name>
+        <processing_script/>
+        <sys_class_name>sys_ui_page</sys_class_name>
+        <sys_created_by>anku_sharma@hcl.com</sys_created_by>
+        <sys_created_on>2025-09-27 09:49:13</sys_created_on>
+        <sys_id>b3dca360971cb2941ea4f1e0f053af10</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Test UI page</sys_name>
+        <sys_package display_value="R&amp;amp;D P&amp;amp;G" source="x_hclte_r_d_p_g">1a162be49758b2941ea4f1e0f053afd6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="R&amp;amp;D P&amp;amp;G">1a162be49758b2941ea4f1e0f053afd6</sys_scope>
+        <sys_update_name>sys_ui_page_b3dca360971cb2941ea4f1e0f053af10</sys_update_name>
+        <sys_updated_by>anku_sharma@hcl.com</sys_updated_by>
+        <sys_updated_on>2025-09-27 09:49:13</sys_updated_on>
+    </sys_ui_page>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="R&amp;amp;D P&amp;amp;G">1a162be49758b2941ea4f1e0f053afd6</application>
+        <file_path/>
+        <instance_id>d49dcfc11b6f64107d9d2f8dee4bcbff</instance_id>
+        <instance_name>hclnowintelligence</instance_name>
+        <name>sys_ui_page_b3dca360971cb2941ea4f1e0f053af10</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_ui_page"&gt;&lt;sys_ui_page action="INSERT_OR_UPDATE"&gt;&lt;category&gt;general&lt;/category&gt;&lt;client_script/&gt;&lt;description/&gt;&lt;direct&gt;false&lt;/direct&gt;&lt;endpoint&gt;x_hclte_r_d_p_g_Test UI page.do&lt;/endpoint&gt;&lt;html&gt;&lt;![CDATA[&lt;?xml version="1.0" encoding="utf-8" ?&gt;
+&lt;j:jelly trim="false" xmlns:j="jelly:core" xmlns:g="glide" xmlns:j2="null" xmlns:g2="null"&gt;
+
+&lt;/j:jelly&gt;]]&gt;&lt;/html&gt;&lt;name&gt;Test UI page&lt;/name&gt;&lt;processing_script/&gt;&lt;sys_class_name&gt;sys_ui_page&lt;/sys_class_name&gt;&lt;sys_created_by&gt;anku_sharma@hcl.com&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2025-09-27 09:49:13&lt;/sys_created_on&gt;&lt;sys_id&gt;b3dca360971cb2941ea4f1e0f053af10&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Test UI page&lt;/sys_name&gt;&lt;sys_package display_value="R&amp;amp;amp;D P&amp;amp;amp;G" source="x_hclte_r_d_p_g"&gt;1a162be49758b2941ea4f1e0f053afd6&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="R&amp;amp;amp;D P&amp;amp;amp;G"&gt;1a162be49758b2941ea4f1e0f053afd6&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_ui_page_b3dca360971cb2941ea4f1e0f053af10&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;anku_sharma@hcl.com&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2025-09-27 09:49:13&lt;/sys_updated_on&gt;&lt;/sys_ui_page&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-201560262</payload_hash>
+        <record_name>Test UI page</record_name>
+        <reverted_from/>
+        <source>b88be32c97d8b2941ea4f1e0f053afc2</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>anku_sharma@hcl.com</sys_created_by>
+        <sys_created_on>2025-09-27 09:49:13</sys_created_on>
+        <sys_id>5bfca760971cb2941ea4f1e0f053af61</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1998a939cd80000001</sys_recorded_at>
+        <sys_updated_by>anku_sharma@hcl.com</sys_updated_by>
+        <sys_updated_on>2025-09-27 09:49:13</sys_updated_on>
+        <type>UI Page</type>
+        <update_guid>1ffca760041cb294d2daa9b439bd6960</update_guid>
+        <update_guid_history>1ffca760041cb294d2daa9b439bd6960:-201560262</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>anku_sharma@hcl.com</sys_created_by>
+        <sys_created_on>2025-09-27 13:16:51</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_page">sys_ui_page</sys_db_object>
+        <sys_id>0de0ae46d33e4c9e8550af07ae8ed7c4</sys_id>
+        <sys_metadata>b3dca360971cb2941ea4f1e0f053af10</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Test UI page</sys_name>
+        <sys_package display_value="R&amp;amp;D P&amp;amp;G" source="x_hclte_r_d_p_g">1a162be49758b2941ea4f1e0f053afd6</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="R&amp;amp;D P&amp;amp;G">1a162be49758b2941ea4f1e0f053afd6</sys_scope>
+        <sys_scope_delete display_value="">2288017cdb0e4ac9b1dfa72bba02bc49</sys_scope_delete>
+        <sys_update_name>sys_ui_page_b3dca360971cb2941ea4f1e0f053af10</sys_update_name>
+        <sys_update_version display_value="sys_ui_page_b3dca360971cb2941ea4f1e0f053af10">5bfca760971cb2941ea4f1e0f053af61</sys_update_version>
+        <sys_updated_by>anku_sharma@hcl.com</sys_updated_by>
+        <sys_updated_on>2025-09-27 13:16:51</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

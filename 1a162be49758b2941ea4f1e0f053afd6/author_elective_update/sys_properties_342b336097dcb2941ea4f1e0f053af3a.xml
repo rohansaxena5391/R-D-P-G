@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties">
+    <sys_properties action="DELETE">
+        <choices/>
+        <description/>
+        <ignore_cache>false</ignore_cache>
+        <is_private>false</is_private>
+        <name>x_hclte_r_d_p_g.df</name>
+        <read_roles/>
+        <suffix>df</suffix>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>anku_sharma@hcl.com</sys_created_by>
+        <sys_created_on>2025-09-27 10:51:02</sys_created_on>
+        <sys_id>342b336097dcb2941ea4f1e0f053af3a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_hclte_r_d_p_g.df</sys_name>
+        <sys_package display_value="R&amp;amp;D P&amp;amp;G" source="x_hclte_r_d_p_g">1a162be49758b2941ea4f1e0f053afd6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="R&amp;amp;D P&amp;amp;G">1a162be49758b2941ea4f1e0f053afd6</sys_scope>
+        <sys_update_name>sys_properties_342b336097dcb2941ea4f1e0f053af3a</sys_update_name>
+        <sys_updated_by>anku_sharma@hcl.com</sys_updated_by>
+        <sys_updated_on>2025-09-27 10:51:02</sys_updated_on>
+        <type>string</type>
+        <value/>
+        <write_roles/>
+    </sys_properties>
+    <sys_translated_text action="DELETE" query="documentkey=342b336097dcb2941ea4f1e0f053af3a"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="R&amp;amp;D P&amp;amp;G">1a162be49758b2941ea4f1e0f053afd6</application>
+        <file_path/>
+        <instance_id>d49dcfc11b6f64107d9d2f8dee4bcbff</instance_id>
+        <instance_name>hclnowintelligence</instance_name>
+        <name>sys_properties_342b336097dcb2941ea4f1e0f053af3a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties"><sys_properties action="INSERT_OR_UPDATE"><choices/><description/><ignore_cache>false</ignore_cache><is_private>false</is_private><name>x_hclte_r_d_p_g.df</name><read_roles/><suffix>df</suffix><sys_class_name>sys_properties</sys_class_name><sys_created_by>anku_sharma@hcl.com</sys_created_by><sys_created_on>2025-09-27 10:51:02</sys_created_on><sys_id>342b336097dcb2941ea4f1e0f053af3a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_hclte_r_d_p_g.df</sys_name><sys_package display_value="R&amp;amp;D P&amp;amp;G" source="x_hclte_r_d_p_g">1a162be49758b2941ea4f1e0f053afd6</sys_package><sys_policy/><sys_scope display_value="R&amp;amp;D P&amp;amp;G">1a162be49758b2941ea4f1e0f053afd6</sys_scope><sys_update_name>sys_properties_342b336097dcb2941ea4f1e0f053af3a</sys_update_name><sys_updated_by>anku_sharma@hcl.com</sys_updated_by><sys_updated_on>2025-09-27 10:51:02</sys_updated_on><type>string</type><value/><write_roles/></sys_properties><sys_translated_text action="delete_multiple" query="documentkey=342b336097dcb2941ea4f1e0f053af3a"/></record_update>]]></payload>
+        <payload_hash>-426252301</payload_hash>
+        <record_name>x_hclte_r_d_p_g.df</record_name>
+        <reverted_from/>
+        <source>f90afb6c979cb2941ea4f1e0f053af2a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>anku_sharma@hcl.com</sys_created_by>
+        <sys_created_on>2025-09-27 10:51:04</sys_created_on>
+        <sys_id>552bb76097dcb2941ea4f1e0f053afe8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1998acc3ab40000001</sys_recorded_at>
+        <sys_updated_by>anku_sharma@hcl.com</sys_updated_by>
+        <sys_updated_on>2025-09-27 10:51:04</sys_updated_on>
+        <type>System Property</type>
+        <update_guid>d12bb76026dcb29494df5dde02d796e7</update_guid>
+        <update_guid_history>d12bb76026dcb29494df5dde02d796e7:-426252301</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>anku_sharma@hcl.com</sys_created_by>
+        <sys_created_on>2025-09-27 13:16:47</sys_created_on>
+        <sys_db_object display_value="" name="sys_properties">sys_properties</sys_db_object>
+        <sys_id>06603073bf2041d089f302336ef74190</sys_id>
+        <sys_metadata>342b336097dcb2941ea4f1e0f053af3a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_hclte_r_d_p_g.df</sys_name>
+        <sys_package display_value="R&amp;amp;D P&amp;amp;G" source="x_hclte_r_d_p_g">1a162be49758b2941ea4f1e0f053afd6</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="R&amp;amp;D P&amp;amp;G">1a162be49758b2941ea4f1e0f053afd6</sys_scope>
+        <sys_scope_delete display_value="">2288017cdb0e4ac9b1dfa72bba02bc49</sys_scope_delete>
+        <sys_update_name>sys_properties_342b336097dcb2941ea4f1e0f053af3a</sys_update_name>
+        <sys_update_version display_value="sys_properties_342b336097dcb2941ea4f1e0f053af3a">552bb76097dcb2941ea4f1e0f053afe8</sys_update_version>
+        <sys_updated_by>anku_sharma@hcl.com</sys_updated_by>
+        <sys_updated_on>2025-09-27 13:16:47</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
