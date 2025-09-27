@@ -5,6 +5,7 @@ pipeline {
     }   
   environment {
     APPSYSID = '1a162be49758b2941ea4f1e0f053afd6' 
+    APPScope = 'x_hclte_r_d_p_g'
     CREDENTIALS = 'servicenow'
     DEVENV = 'https://hclnowintelligence.service-now.com'
     PRODENV = 'https://ven03869.service-now.com'
@@ -15,7 +16,7 @@ stages {
     stage('Build') {
       steps {
         snApplyChanges(appSysId: "${APPSYSID}", url: "${DEVENV}", credentialsId: "${CREDENTIALS}")
-        snPublishApp(credentialsId: "${CREDENTIALS}", url: "${DEVENV}", appSysId: "${APPSYSID}",
+        snPublishApp(credentialsId: "${CREDENTIALS}", url: "${DEVENV}", appScope: "${APPScope}", appSysId: "${APPSYSID}",
           isAppCustomization: true, obtainVersionAutomatically: false )       
        
         
