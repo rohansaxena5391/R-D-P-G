@@ -5,7 +5,7 @@ pipeline {
     }   
   environment {
     APPSYSID = '1a162be49758b2941ea4f1e0f053afd6' 
-    APPScope = 'x_hclte_r_d_p_g'
+    APPScope = '1280bf2c971cb2941ea4f1e0f053aff1'
     CREDENTIALS = 'servicenow'
     DEVENV = 'https://hclnowintelligence.service-now.com'
     PRODENV = 'https://ven03869.service-now.com'
