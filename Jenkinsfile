@@ -42,17 +42,7 @@ echo "Published version: ${env.PUBLISHED_VERSION}"
 
 stage('Install') {
 steps {
-script {
-if (!env.PUBLISHED_VERSION?.trim()) {
-error "No published version found. Did the Build stage succeed?"
-}
-
-echo "Installing app version ${env.PUBLISHED_VERSION} into PROD..."
 snDevOpsChange(
-credentialsId: "${CREDENTIALS}",
-url: "${PRODEVN}"
-)
-
 snInstallApp(
 credentialsId: "${CREDENTIALS}",
 url: "${PRODEVN}",
