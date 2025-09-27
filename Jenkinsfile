@@ -30,7 +30,8 @@ url: "${DEVEN}",
 appScope: "${APPSCOPE}",
 appSysId: "${APPSYSID}",
 isAppCustomization: true,
-obtainVersionAutomatically: true
+obtainVersionAutomatically: false,
+  version: "1.0.33"
 )
 
 // Save published version to environment
