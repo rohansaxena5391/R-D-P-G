@@ -53,11 +53,3 @@ baseAppAutoUpgrade: false
 }
 }
 }
-}
-
-post {
-always {
-echo "Pipeline finished. Version deployed: ${env.PUBLISHED_VERSION ?: 'N/A'}"
-}
-}
-}
