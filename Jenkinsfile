@@ -4,6 +4,12 @@ options {
 timeout(time: 4, unit: 'HOURS')
 }
 
+      environment {
+    APPSYSID = '1a162be49758b2941ea4f1e0f053afd6' 
+    CREDENTIALS = 'servicenow'
+    DEVENV = 'https://hclnowintelligence.service-now.com'
+    PRODENV = 'https://ven03869.service-now.com'
+  }
 
 stages {
     stage('Build') {
