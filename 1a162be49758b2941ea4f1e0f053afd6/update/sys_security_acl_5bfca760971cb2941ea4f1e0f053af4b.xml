@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <applies_to/>
+        <condition/>
+        <controlled_by_refs/>
+        <decision_type>allow</decision_type>
+        <description/>
+        <local_or_existing>Local</local_or_existing>
+        <name>x_hclte_r_d_p_g_Test UI page</name>
+        <operation display_value="read">read</operation>
+        <script/>
+        <security_attribute/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>anku_sharma@hcl.com</sys_created_by>
+        <sys_created_on>2025-09-27 09:49:13</sys_created_on>
+        <sys_id>5bfca760971cb2941ea4f1e0f053af4b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_hclte_r_d_p_g_Test UI page</sys_name>
+        <sys_package display_value="R&amp;amp;D P&amp;amp;G" source="x_hclte_r_d_p_g">1a162be49758b2941ea4f1e0f053afd6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="R&amp;amp;D P&amp;amp;G">1a162be49758b2941ea4f1e0f053afd6</sys_scope>
+        <sys_update_name>sys_security_acl_5bfca760971cb2941ea4f1e0f053af4b</sys_update_name>
+        <sys_updated_by>anku_sharma@hcl.com</sys_updated_by>
+        <sys_updated_on>2025-09-27 09:49:13</sys_updated_on>
+        <type display_value="ui_page">ui_page</type>
+    </sys_security_acl>
+</record_update>
