@@ -25,7 +25,7 @@ echo "Applying changes in DEV..."
              /// Save published version to environment
 env.PUBLISHED_VERSION = publishResult.appVersion
 echo "Published version: ${env.PUBLISHED_VERSION}"
-)     
+   
         
       }
     }  
