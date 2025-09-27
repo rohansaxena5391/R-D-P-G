@@ -47,7 +47,6 @@ snInstallApp(
 credentialsId: "${CREDENTIALS}",
 url: "${PRODEVN}",
 appSysId: "${APPSYSID}",
-publishedAppVersion: env.PUBLISHED_VERSION,
 baseAppAutoUpgrade: false
 )
 }
