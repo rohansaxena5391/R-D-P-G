@@ -42,7 +42,7 @@ echo "Published version: ${env.PUBLISHED_VERSION}"
 
 stage('Install') {
 steps {
-snDevOpsChange(
+snDevOpsChange()
 snInstallApp(
 credentialsId: "${CREDENTIALS}",
 url: "${PRODEVN}",
